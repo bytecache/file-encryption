@@ -13,3 +13,6 @@ You can adapt this script to run on its own or import it to you scripts and use 
 
 ##Python Version
 I have tested this code with Python version 3. Specifically 3.5.x and 3.6.x have been tested.
+
+##Pycryptodome Documentation
+http://legrandin.github.io/pycryptodome/Doc/3.4.6/
