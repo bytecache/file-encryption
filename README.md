@@ -3,6 +3,8 @@
 ##Requirements
 * See requirements.txt for more details
 
+##Security Warning
+This script was made more for my own experimentation, therefore encrypting files using this script should not be considered secure.
 ##Description
 This script can be used to encrypt and decrypt files using the pycryptodome library. The code here is similar to other tutorials that can be found across the Internet. It took quite some time to patch the code I found together and get it working, so I wanted to share it for other to use.
 
